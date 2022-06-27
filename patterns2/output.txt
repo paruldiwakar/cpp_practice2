@@ -1,0 +1,44 @@
+1.Inverted Pattern
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+2.0-1 Pattern
+1 
+0 1 
+1 0 1 
+0 1 0 1 
+
+3.Rhombus Pattern
+      *   *   *   *   
+    *   *   *   *     
+  *   *   *   *       
+*   *   *   *         
+
+4.Number Pattern
+      1         
+    1   2         
+  1   2   3         
+1   2   3   4         
+
+5.Palindrome Pattern
+   1   
+  212  
+ 32123 
+4321234
+
+6.Star Pattern
+      *       
+    * * *     
+  * * * * *   
+* * * * * * * 
+* * * * * * * 
+  * * * * *   
+    * * *     
+      *       
+
+7.Zig-Zag Pattern
+    *       *     
+  *   *   *   *   
+*       *       * 

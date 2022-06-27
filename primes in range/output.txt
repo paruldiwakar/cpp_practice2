@@ -1,0 +1,3 @@
+Prime numbers in range 2-9 are :
+2 3 5 7 
+Not Prime

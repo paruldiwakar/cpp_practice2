@@ -1,0 +1,50 @@
+1.Rectangle
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+
+2.Hollow Rectangle
+* * * * * 
+*       * 
+*       * 
+* * * * * 
+
+3.Inverted Half Pyramid
+* * * * 
+* * * 
+* * 
+* 
+
+4.Half Pyramid
+* 
+* * 
+* * * 
+* * * * 
+
+5.Half Pyramid after 180° rotation
+      * 
+    * * 
+  * * * 
+* * * * 
+
+6.Half Pyramid using numbers
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+
+7.Floyd's Triangle
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+
+8.Butterfly Pattern
+*             * 
+* *         * * 
+* * *     * * * 
+* * * * * * * * 
+* * *     * * * 
+* *         * * 
+*             * 
