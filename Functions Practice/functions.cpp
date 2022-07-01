@@ -103,7 +103,7 @@ int n, r;
 cin >> n >> r;
 cout << nCr(n, r) << endl;
 
-cout << "\n5.Pascal's Triangle";
+cout << "\n5.Pascal's Triangle\n";
 int rows;
 cin >> rows;
 Pascal_Triangle(rows);
