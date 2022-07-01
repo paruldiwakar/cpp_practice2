@@ -80,24 +80,30 @@ freopen("input.txt","r", stdin);
 freopen("output.txt","w",stdout);
 #endif // !ONLINE_JUDGE
 
+
+cout << "1.Prime numbers in a given range\n";
 int num1, num2;
 cin >> num1 >> num2;
 Prime_in_Range(num1, num2);
 cout << endl;
 
+cout << "\n2.Fibonacci Series\n";
 int nums;
 cin >> nums;
 Fibonacci(nums);
 cout << endl;
 
+cout << "\n3.Factorial\n";
 int num;
 cin >> num;
 cout << Factorial(num) << endl;
 
+cout << "\n4.Binomial Coefficient\n";
 int n, r;
 cin >> n >> r;
 cout << nCr(n, r) << endl;
 
+cout << "\n5.Pascal's Triangle";
 int rows;
 cin >> rows;
 Pascal_Triangle(rows);
